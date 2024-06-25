@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.inside-history {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  padding-left: 20px;
+  height: 40px;
+  border: 1px solid #7e858e;
+  border-top: none;
+}
+.delete-style {
+  height: 25px;
+}
+.butn-delete{
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

@@ -1,0 +1,58 @@
+/* Write your CSS here */
+* {
+  font-family: Roboto;
+}
+.ul-list {
+  list-style: none;
+  margin-left: -40px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.list-style {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #ecfccb;
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  border: 1px solid #84cc16;
+}
+
+.img-style {
+  height: 50px;
+}
+
+.para-money {
+  color: #475569;
+}
+.head-money {
+  font-size: 25px;
+  color: #475569;
+}
+.list-style-two {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #cffafe;
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  border: 1px solid #06b6d4;
+}
+
+.list-style-three {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #ede9fe;
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  border: 1px solid #7c3aed;
+}
